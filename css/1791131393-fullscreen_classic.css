@@ -1,0 +1,1472 @@
+.J {
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+    height: 100%;
+    background-color: #fff
+}
+
+.ab {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 10pt
+}
+
+.A {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    border-collapse: separate;
+    table-layout: fixed
+}
+
+.i {
+    vertical-align: top
+}
+
+.p,
+.l,
+.q,
+.Ob {
+    border-width: 1px 0;
+    border-color: #fff;
+    border-style: solid
+}
+
+.V {
+    height: 40px
+}
+
+.w {
+    -moz-user-select: none;
+    -webkit-user-select: none
+}
+
+.p {
+    width: 8px
+}
+
+.hb .p {
+    width: 10px
+}
+
+.K {
+    background-repeat: repeat-y;
+    background-position: -254px 0
+}
+
+.Qb .K {
+    background-position: -270px 0
+}
+
+.i,
+.Ob {
+    width: 8px
+}
+
+.hb .i,
+.hb .Ob {
+    width: 15px
+}
+
+.e {
+    font-size: 10pt;
+    white-space: -moz-pre-wrap;
+    white-space: pre-wrap;
+    line-height: 15px;
+    padding: 2px 2px 0 0;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    color: #000;
+    min-height: 15px;
+    height: auto;
+    _height: 15px;
+    outline: none
+}
+
+.Xb .e {
+    cursor: text;
+    word-wrap: break-word;
+    font-size: 10pt;
+    line-height: 15px
+}
+
+.wb .e {
+    color: #808080;
+    cursor: pointer
+}
+
+.e .Ub {
+    color: #4279a5
+}
+
+.l,
+.q {
+    padding: 0 0 2px 0;
+    overflow: hidden
+}
+
+.Xb .i {
+    cursor: pointer
+}
+
+.k {
+    background-color: #fff;
+    border: 0;
+    box-shadow: none;
+    color: #000;
+    display: inherit;
+    resize: none;
+    line-height: 15px;
+    overflow: auto;
+    outline: none;
+    width: 100%
+}
+
+.k:focus {
+    box-shadow: none
+}
+
+.P {
+    overflow: hidden;
+    padding-left: 0;
+    margin-left: 0;
+    width: auto
+}
+
+.Db {
+    float: left;
+    padding: 0
+}
+
+.C,
+.m {
+    font-family: Arial, sans-serif;
+    font-size: 10pt
+}
+
+.j {
+    text-decoration: line-through
+}
+
+.j,
+.Z {
+    text-decoration: line-through;
+    color: #808080
+}
+
+.Qb .j,
+.Qb .Z {
+    color: #666
+}
+
+.F {
+    float: left
+}
+
+.v {
+    height: 16px;
+    margin: 2px 1px 0 0;
+    width: 15px
+}
+
+.jb {
+    font-size: 10pt;
+    color: #999;
+    padding: 2px 0 0 4px
+}
+
+.Xb .v {
+    cursor: pointer
+}
+
+.c {
+    background-position: -32px -2px
+}
+
+.Qb .c {
+    background-position: -80px -2px
+}
+
+.b {
+    background-position: -16px -2px
+}
+
+.Qb .b {
+    background-position: -64px -2px
+}
+
+.Qb .Y {
+    background-position: -303px -15px
+}
+
+.Y {
+    background-position: -303px -15px
+}
+
+.Qb .p,
+.Qb .l,
+.Qb .q,
+.Qb .i,
+.gb {
+    background-color: #ffffdb
+}
+
+.Qb {
+    color: #000
+}
+
+.zc .p,
+.zc .l,
+.zc .q,
+.zc .i,
+.zc .Ob {
+    border-color: #f7e084
+}
+
+.uc .p,
+.uc .l,
+.uc .q,
+.uc .i,
+.uc .Ob {
+    background-color: #e8eef7;
+    border-color: #d9ddef
+}
+
+.vc .p,
+.vc .l,
+.vc .q,
+.vc .i,
+.vc .Ob {
+    border-top-color: #8181dc
+}
+
+.tc .p,
+.tc .l,
+.tc .q,
+.tc .i,
+.tc .Ob {
+    border-bottom-color: #8181dc
+}
+
+.M {
+    white-space: -moz-pre-wrap;
+    white-space: pre-wrap;
+    padding: 2px 2px 0 0;
+    line-height: 15px;
+    min-height: 15px;
+    outline: none
+}
+
+.L {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: bold
+}
+
+.S {
+    font-size: 8pt;
+    color: #666;
+    vertical-align: top;
+    padding-left: 10px
+}
+
+.E {
+    margin: 0 0 0 3px;
+    vertical-align: text-bottom;
+    width: 15px;
+    height: 15px;
+    background-position: -303px 0;
+    float: left
+}
+
+.a.E {
+    background-image: null
+}
+
+.G {
+    display: none
+}
+
+.N {
+    width: 16px;
+    height: 16px;
+    padding-bottom: 1px;
+    vertical-align: middle
+}
+
+.Xb .N {
+    cursor: pointer
+}
+
+.X {
+    float: left
+}
+
+.h,
+.n {
+    width: 17px;
+    height: 20px
+}
+
+.h {
+    background-position: -222px -3px
+}
+
+.n {
+    background-position: -206px -3px
+}
+
+.Xb .h,
+.Xb .n {
+    cursor: pointer
+}
+
+.ib {
+    cursor: pointer!important;
+    color: #4279a5!important
+}
+
+.ub {
+    font-size: 10pt
+}
+
+.U {
+    margin: 2px;
+    padding: 0;
+    list-style-type: none
+}
+
+.tb {
+    padding: 1px;
+    clear: both
+}
+
+.sb {
+    font-weight: bold;
+    color: #000
+}
+
+.Xb .D {
+    text-decoration: underline;
+    color: #99c;
+    cursor: pointer;
+    font-size: 10pt
+}
+
+.yb {
+    width: 16px;
+    height: 16px;
+    margin: 3px;
+    vertical-align: middle;
+    cursor: pointer;
+    background-position: -281px -10px
+}
+
+.db {
+    font-weight: bold;
+    color: #000
+}
+
+.eb {
+    font-size: 10pt
+}
+
+.Nb {
+    border-style: solid;
+    border-width: 1px 0;
+    border-color: #fff
+}
+
+.zc .Nb {
+    border-color: #f7e084
+}
+
+.cb {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    border: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-repeat: repeat-y;
+    background-position: -270px 0
+}
+
+.Fb {
+    border-color: #ccc;
+    border-width: 1px 0;
+    border-style: solid;
+    background: none
+}
+
+.Ib {
+    height: 12px;
+    padding: 0
+}
+
+.Ib .e {
+    min-height: 12px;
+    line-height: 12px
+}
+
+.Hb {
+    height: 10px;
+    padding: 0
+}
+
+.Hb .e {
+    min-height: 10px;
+    line-height: 10px
+}
+
+.Mb {
+    height: 8px;
+    padding: 0
+}
+
+.Mb .e {
+    min-height: 8px;
+    line-height: 8px
+}
+
+.Lb {
+    height: 6px;
+    padding: 0
+}
+
+.Lb .e {
+    min-height: 6px;
+    line-height: 6px
+}
+
+.Kb {
+    height: 4px;
+    padding: 0
+}
+
+.Kb .e {
+    min-height: 4px;
+    line-height: 4px
+}
+
+.Jb {
+    height: 2px;
+    padding: 0
+}
+
+.Jb .e {
+    min-height: 2px;
+    line-height: 2px
+}
+
+.Gb {
+    display: none
+}
+
+.z,
+.oc {
+    color: #666;
+    font-size: 8pt;
+    font-weight: normal;
+    letter-spacing: normal;
+    padding: 0 0 2px;
+    text-decoration: none;
+    text-transform: none
+}
+
+.mc {
+    padding-top: 1px
+}
+
+.R {
+    color: #666!important
+}
+
+.Xb .nc {
+    color: #4279a5;
+    text-decoration: underline;
+    cursor: pointer
+}
+
+.Qb .mc,
+.Qb .lb,
+.Qb .nc {
+    color: #666
+}
+
+.lb {
+    padding-top: 1px;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+.qc {
+    font-size: 10pt
+}
+
+.ec {
+    font-weight: bold
+}
+
+.O {
+    float: right;
+    width: 6px;
+    height: 15px;
+    padding: 0 2px;
+    background-repeat: no-repeat
+}
+
+.hc {
+    background-position: 0 0
+}
+
+.kb {
+    background-position: -50px -2px
+}
+
+.Qb .kb {
+    background-position: -98px -2px
+}
+
+.D {
+    display: block;
+    padding: 8px 0 8px 8px;
+    text-align: left
+}
+
+.Q .D {
+    text-decoration: underline;
+    color: #99c;
+    cursor: pointer
+}
+
+.Q .o {
+    background-position: -240px -4px;
+    cursor: pointer;
+    width: 12px;
+    height: 12px;
+    vertical-align: middle
+}
+
+.Q .E,
+.Q .v {
+    cursor: pointer
+}
+
+.d {
+    box-sizing: border-box;
+    color: #000;
+    padding: 5px 11px 4px 11px;
+    float: left;
+    width: 100%
+}
+
+.pc {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    box-sizing: border-box;
+    color: #000;
+    line-height: 15px;
+    outline: none;
+    overflow: auto;
+    padding: 1px;
+    resize: none;
+    width: 100%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box
+}
+
+.fc {
+    color: #000;
+    background-color: #fff;
+    margin: 0;
+    padding: 1px;
+    border: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    outline: none;
+    resize: none;
+    overflow: hidden;
+    line-height: 15px;
+    height: 17px;
+    max-width: 80%
+}
+
+.Db {
+    max-width: 80%
+}
+
+.lc {
+    color: #000;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    padding: 1px;
+    box-sizing: border-box
+}
+
+.Q .lc {
+    cursor: pointer
+}
+
+.y {
+    vertical-align: middle;
+    margin: 0 0 4px 4px
+}
+
+.d .goog-menu {
+    color: #000;
+    background-color: #f3f3f7;
+    border: 1px solid #b5b6b5;
+    position: absolute;
+    cursor: default;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    max-width: 200px
+}
+
+.d .goog-menuitem {
+    padding: 2px 4px;
+    margin: 0;
+    list-style: none
+}
+
+.d .goog-menuitem-highlight {
+    color: #fff;
+    background-color: #4279a5
+}
+
+.d .goog-menuseparator {
+    margin: 0;
+    border-top: 1px solid #999;
+    position: relative;
+    padding: 0;
+    outline: none
+}
+
+.d .goog-menuitem-disabled {
+    color: #999
+}
+
+.d .goog-flat-menu-button {
+    color: #000;
+    background-color: #f3f3f7;
+    border: 1px solid #b5b6b5;
+    cursor: default;
+    margin: 0;
+    padding: 1px 4px;
+    list-style: none;
+    vertical-align: middle;
+    outline: none
+}
+
+.d .goog-flat-menu-button-disabled {
+    color: #000;
+    border: 1px solid #b5b6b5;
+    cursor: default
+}
+
+.d .goog-flat-menu-button-hover {
+    border: 1px solid #b5b6b5
+}
+
+.d .goog-flat-menu-button-active {
+    color: #fff;
+    background-color: #4279a5;
+    background-position: bottom left
+}
+
+.d .goog-flat-menu-button-focused {
+    border: 1px solid #b5b6b5
+}
+
+.d .goog-flat-menu-button-caption {
+    padding-right: 10px;
+    vertical-align: top
+}
+
+.nb {
+    font-size: 8pt;
+    padding-top: 3px
+}
+
+.Ec {
+    color: #000;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    margin: 10px;
+    width: 90%;
+    max-width: 20em
+}
+
+.Jc,
+.Ic {
+    position: relative
+}
+
+.Ic {
+    clear: both
+}
+
+.Oc,
+.Bc {
+    height: 5px;
+    left: 0;
+    top: 0;
+    margin-left: -3px
+}
+
+.Pc,
+.Cc {
+    height: 5px;
+    margin-right: -3px;
+    right: 0;
+    width: 5px
+}
+
+.Kc {
+    font-weight: bold
+}
+
+.xb {
+    padding: 3px 3px 4px;
+    font-size: small
+}
+
+.W {
+    color: #06c;
+    cursor: pointer;
+    text-decoration: underline
+}
+
+.Nc {
+    float: right;
+    text-align: right;
+    width: 5em
+}
+
+.Mc {
+    float: left;
+    text-align: left;
+    width: 5em
+}
+
+.Lc {
+    text-align: center
+}
+
+.Dc {
+    text-align: right
+}
+
+.Oc {
+    background: transparent url('shadow-top-left.png') no-repeat scroll 0;
+    width: 100%
+}
+
+.Pc {
+    background: transparent url('shadow-top-right.png') no-repeat scroll top right;
+    float: right
+}
+
+.Bc {
+    background: transparent url('shadow-bottom-left.png') no-repeat scroll 0;
+    width: 5px;
+    float: left;
+    margin-bottom: -5px
+}
+
+.Ac {
+    background: transparent url('shadow-bottom-border.png') repeat-x scroll top right;
+    height: 5px;
+    width: 100%;
+    margin-bottom: -5px
+}
+
+.Cc {
+    background: transparent url('shadow-bottom-right.png') no-repeat scroll top right;
+    top: 0;
+    float: right;
+    margin-bottom: -5px
+}
+
+.Fc {
+    background: transparent url('shadow-left-side.png') top left repeat-y scroll;
+    margin-left: -3px;
+    width: 100%
+}
+
+.Hc {
+    background: transparent url('shadow-right-side.png') top right repeat-y scroll;
+    margin-right: -6px
+}
+
+.Gc {
+    padding: 1px 8px 5px 11px;
+    position: relative
+}
+
+.t {
+    margin: 0;
+    padding: 3px 3px 4px
+}
+
+.Cb {
+    padding-top: 5px
+}
+
+.Bb {
+    background-color: #fff;
+    background-repeat: no-repeat;
+    border: medium none;
+    height: 20px;
+    width: 70px
+}
+
+.C .goog-flat-menu-button-dropdown {
+    background-position: -281px 0;
+    width: 7px;
+    height: 7px;
+    margin-left: 2px;
+    margin-right: 2px;
+    vertical-align: middle
+}
+
+html>body .goog-inline-block {
+    display: -moz-inline-box;
+    display: inline-block
+}
+
+.goog-inline-block {
+    position: relative;
+    display: inline-block
+}
+
+* html .goog-inline-block {
+    display: inline
+}
+
+*:first-child+html .goog-inline-block {
+    display: inline
+}
+
+.dp-popup {
+    position: absolute;
+    border: 1px solid black;
+    background: #e3e9ff;
+    font-size: 9pt;
+    line-height: 1em;
+    width: 170px;
+    z-index: 25000003
+}
+
+.dp-dayh {
+    font-size: 78%
+}
+
+.dp-monthtable {
+    width: 100%;
+    padding: 0;
+    -webkit-user-select: none
+}
+
+.dp-cell {
+    text-align: center;
+    padding: 3px 2px;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    color: #222;
+    font-weight: normal
+}
+
+.dp-heading {
+    cursor: pointer;
+    font-weight: bold;
+    vertical-align: middle
+}
+
+.dp-cur {
+    font-weight: bold;
+    padding-bottom: 4px;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 100%;
+    color: #20c
+}
+
+.dp-prev,
+.dp-next {
+    font-size: 100%;
+    padding-bottom: 6px;
+    cursor: pointer;
+    color: #20c
+}
+
+.dp-prev {
+    text-align: right
+}
+
+.dp-next {
+    text-align: left
+}
+
+.dp-sb-cur {
+    color: #20c;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 7px 0;
+    text-align: left;
+    text-decoration: underline;
+    -moz-user-select: none;
+    -webkit-user-select: none
+}
+
+.dp-sb-nav {
+    padding: 7px 0;
+    text-align: right;
+    white-space: nowrap
+}
+
+.dp-sb-prev,
+.dp-sb-next {
+    background: url('//calendar.google.com/googlecalendar/images/combined_v22.png') -243px -35px no-repeat;
+    cursor: pointer;
+    height: 12px;
+    padding: 0;
+    width: 15px
+}
+
+.dp-sb-next,
+.rtl .dp-sb-prev {
+    background-position: -258px -35px;
+    margin-left: 3px
+}
+
+.rtl .dp-sb-next {
+    background-position: -243px -35px
+}
+
+.dp-weekday {
+    background: #fff
+}
+
+.dp-weekday-selected {
+    color: #222;
+    background: #e3e9ff
+}
+
+.dp-weekend,
+.dp-weekendh {
+    background: #fff
+}
+
+.dp-weekend-selected {
+    color: #222;
+    background: #e3e9ff
+}
+
+.dp-with-events {
+    font-weight: bold!important
+}
+
+.dp-offmonth {
+    color: #999
+}
+
+.dp-offmonth-selected {
+    color: #999
+}
+
+.dp-monthtablediv {
+    border: 1px solid #999
+}
+
+#nav .dp-monthtablediv {
+    border: none
+}
+
+.dp-today,
+.dp-today-selected {
+    padding: 1px;
+    color: #000;
+    border: 1px solid
+}
+
+.dp-today {
+    background: #fff7d7;
+    border-color: #fff7d7
+}
+
+.dp-today-selected {
+    background: #fff7d7;
+    border-color: #fad163
+}
+
+.dp-onhover {
+    background-color: #e3e9ff;
+    border-color: #e3e9ff;
+    color: #222
+}
+
+.dp-today.dp-onhover,
+.dp-today-selected.dp-onhover {
+    border-color: #fad163
+}
+
+.datepicker-container {
+    position: absolute;
+    font-size: 10pt;
+    width: 170px;
+    height: 100px;
+    background-color: #c3d9ff
+}
+
+.goog-toolbar {
+    position: relative;
+    margin: 0;
+    border-bottom: 1px solid #d5d5d5;
+    padding: 2px;
+    background: #fafafa url("images/goog-toolbar-bg.png") repeat-x bottom left;
+    cursor: default;
+    outline: none;
+    line-height: 1;
+    zoom: 1;
+    text-align: left
+}
+
+.goog-toolbar-button {
+    margin: 0 2px;
+    border: 0;
+    padding: 0;
+    font: normal 1em/1 Tahoma, Arial, sans-serif;
+    color: #333;
+    text-decoration: none;
+    list-style: none;
+    vertical-align: middle;
+    cursor: default;
+    outline: none
+}
+
+.goog-toolbar-button-outer-box,
+.goog-toolbar-button-inner-box {
+    border: 0;
+    vertical-align: top
+}
+
+.goog-toolbar-button-outer-box {
+    margin: 0;
+    padding: 1px 0
+}
+
+.goog-toolbar-button-inner-box {
+    margin: 0 -1px;
+    padding: 3px 5px;
+    font-size: 1.3em
+}
+
+* html .goog-toolbar-button-inner-box {
+    left: -1px
+}
+
+* html .goog-toolbar-button-rtl .goog-toolbar-button-outer-box {
+    left: -1px
+}
+
+* html .goog-toolbar-button-rtl .goog-toolbar-button-inner-box {
+    left: 0
+}
+
+*:first-child+html .goog-toolbar-button-inner-box {
+    left: -1px
+}
+
+*:first-child+html .goog-toolbar-button-rtl .goog-toolbar-button-inner-box {
+    left: 1px
+}
+
+::root .goog-toolbar-button,
+::root .goog-toolbar-button-outer-box {
+    line-height: 0
+}
+
+::root .goog-toolbar-button-inner-box {
+    line-height: normal
+}
+
+.goog-toolbar-button-disabled {
+    opacity: 0.3;
+    -moz-opacity: 0.3;
+    filter: alpha(opacity=30)
+}
+
+.goog-toolbar-button-disabled .goog-toolbar-button-outer-box,
+.goog-toolbar-button-disabled .goog-toolbar-button-inner-box {
+    color: #333!important;
+    border-color: #999!important
+}
+
+* html .goog-toolbar-button-disabled {
+    background-color: #f0f0f0;
+    margin: 0 1px;
+    padding: 0 1px
+}
+
+*:first-child+html .goog-toolbar-button-disabled {
+    background-color: #f0f0f0;
+    margin: 0 1px;
+    padding: 0 1px
+}
+
+.goog-toolbar-button-hover .goog-toolbar-button-outer-box,
+.goog-toolbar-button-active .goog-toolbar-button-outer-box,
+.goog-toolbar-button-checked .goog-toolbar-button-outer-box,
+.goog-toolbar-button-selected .goog-toolbar-button-outer-box {
+    border-width: 1px 0;
+    border-style: solid;
+    padding: 0
+}
+
+.goog-toolbar-button-hover .goog-toolbar-button-inner-box,
+.goog-toolbar-button-active .goog-toolbar-button-inner-box,
+.goog-toolbar-button-checked .goog-toolbar-button-inner-box,
+.goog-toolbar-button-selected .goog-toolbar-button-inner-box {
+    border-width: 0 1px;
+    border-style: solid;
+    padding: 3px 4px
+}
+
+.goog-toolbar-button-hover .goog-toolbar-button-outer-box,
+.goog-toolbar-button-hover .goog-toolbar-button-inner-box {
+    border-color: #a1badf!important
+}
+
+.goog-toolbar-button-active,
+.goog-toolbar-button-checked,
+.goog-toolbar-button-selected {
+    background-color: #dde1eb!important
+}
+
+.goog-toolbar-button-active .goog-toolbar-button-outer-box,
+.goog-toolbar-button-active .goog-toolbar-button-inner-box,
+.goog-toolbar-button-checked .goog-toolbar-button-outer-box,
+.goog-toolbar-button-checked .goog-toolbar-button-inner-box,
+.goog-toolbar-button-selected .goog-toolbar-button-outer-box,
+.goog-toolbar-button-selected .goog-toolbar-button-inner-box {
+    border-color: #729bd1
+}
+
+.Zb,
+.Wb {
+    margin-left: 5px
+}
+
+.wc {
+    background-position: -194px -24px;
+    width: 13px;
+    height: 13px;
+    margin: 1px 5px 0 2px;
+    top: 1px
+}
+
+.Zb {
+    margin-top: 9px;
+    font-weight: bold
+}
+
+.u,
+.B,
+.x {
+    float: right
+}
+
+.bc {
+    vertical-align: top
+}
+
+.B {
+    top: 4px
+}
+
+.g {
+    height: 16px
+}
+
+.Rc {
+    padding-top: 5px;
+    margin-right: 8px
+}
+
+.Rc,
+.yc,
+.Sb .goog-flat-button {
+    font-family: Arial, sans-serif;
+    font-size: 12px
+}
+
+.yc {
+    color: #808080
+}
+
+.f {
+    padding-top: 1px
+}
+
+.Ab {
+    background-position: -111px -3px;
+    width: 13px;
+    float: left;
+    margin-right: 4px
+}
+
+.Tb {
+    width: 13px;
+    background-position: -16px -23px
+}
+
+.Tc {
+    width: 13px;
+    background-position: -48px -23px
+}
+
+.dc {
+    background-position: -144px -25px;
+    height: 12px;
+    margin: 2px 2px 2px 0;
+    width: 13px
+}
+
+.Yb .goog-menu-button-hover .dc,
+.Yb .goog-menu-button-open .dc {
+    background-position: -177px -25px
+}
+
+.sc {
+    width: 12px;
+    background-position: -80px -23px
+}
+
+.rc {
+    width: 12px;
+    background-position: -112px -23px
+}
+
+.Eb {
+    width: 13px;
+    background-position: -127px -3px
+}
+
+.xc {
+    width: 16px;
+    background-position: -210px -22px
+}
+
+.Vb {
+    width: 146px;
+    vertical-align: top;
+    border-right-style: solid;
+    border-right-width: 4px;
+    border-right-color: #e3e9ff;
+    font-family: Arial, sans-serif;
+    font-size: 13px
+}
+
+.Rb {
+    table-layout: fixed;
+    width: 100%
+}
+
+.Sb {
+    background-color: #e3e9ff
+}
+
+.Pb {
+    display: none;
+    color: #000;
+    background-color: #fc0;
+    font-size: 9pt;
+    padding: 3px 5px 2px;
+    text-align: center;
+    position: absolute;
+    max-width: 200px;
+    z-index: 1
+}
+
+.zb {
+    color: #06c;
+    text-decoration: underline;
+    cursor: pointer
+}
+
+.ac {
+    position: absolute;
+    left: 162px;
+    top: 2px;
+    font-size: 20px
+}
+
+.Yb {
+    margin: 6px 0 30px 7px
+}
+
+.Yb .goog-menu {
+    border: 1px solid #e1e1e1;
+    cursor: default;
+    position: absolute;
+    z-index: 1
+}
+
+.Yb .goog-menuitem {
+    color: #000000;
+    background-color: #f7f7f7;
+    padding: 0 4px 0 4px
+}
+
+.Yb .goog-menuitem-highlight {
+    background-color: #becdee
+}
+
+.Yb .goog-flat-button,
+.Sb .goog-flat-button {
+    color: #2a5bd0;
+    cursor: default
+}
+
+.Sb .goog-flat-button,
+.yc {
+    margin: 7px 8px 0 1px
+}
+
+.Yb .goog-flat-button {
+    width: 85%;
+    overflow: hidden
+}
+
+.Yb .goog-flat-button-hover,
+.Sb .goog-flat-button-hover {
+    text-decoration: underline
+}
+
+.Yb .goog-menu-button {
+    margin-right: 4px;
+    top: -1px;
+    outline-style: none;
+    vertical-align: top
+}
+
+.cb {
+    left: 150px!important
+}
+
+.goog-custom-button {
+    background: #dddddd url('button-bg.gif') repeat-x scroll left top;
+    border: 0 none;
+    color: #000000;
+    cursor: default;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    margin: 2px;
+    outline-color: -moz-use-text-color;
+    outline-style: none;
+    outline-width: medium;
+    padding: 0;
+    text-decoration: none;
+    vertical-align: middle
+}
+
+.goog-custom-button-outer-box,
+.goog-custom-button-inner-box {
+    border-color: #aaaaaa;
+    border-style: solid;
+    vertical-align: top
+}
+
+.goog-custom-button-outer-box {
+    border-width: 1px 0;
+    margin: 0;
+    padding: 0
+}
+
+.goog-custom-button-inner-box {
+    border-width: 0 1px;
+    margin: 0 -1px;
+    padding: 3px 4px
+}
+
+.goog-custom-button-disabled {
+    background-image: none!important;
+    opacity: 0.4
+}
+
+.goog-custom-button-disabled .goog-custom-button-outer-box,
+.goog-custom-button-disabled .goog-custom-button-inner-box {
+    border-color: #999999!important;
+    color: #333333!important
+}
+
+.goog-custom-button-hover .goog-custom-button-outer-box,
+.goog-custom-button-hover .goog-custom-button-inner-box {
+    border-color: #99ccff #6699ee #6699ee #77aaff!important
+}
+
+.goog-custom-button-active,
+.goog-custom-button-checked {
+    background-color: #bbbbbb;
+    background-position: left bottom
+}
+
+.goog-custom-button-focused .goog-custom-button-outer-box,
+.goog-custom-button-focused .goog-custom-button-inner-box {
+    border-color: orange
+}
+
+.goog-custom-button-collapse-right,
+.goog-custom-button-collapse-right .goog-custom-button-outer-box,
+.goog-custom-button-collapse-right .goog-custom-button-inner-box {
+    margin-right: 0
+}
+
+.goog-custom-button-collapse-left,
+.goog-custom-button-collapse-left .goog-custom-button-outer-box,
+.goog-custom-button-collapse-left .goog-custom-button-inner-box {
+    margin-left: 0
+}
+
+.goog-custom-button-collapse-left .goog-custom-button-inner-box {
+    border-left: 1px solid #ffffff
+}
+
+.goog-custom-button-collapse-left.goog-custom-button-checked .goog-custom-button-inner-box {
+    border-left: 1px solid #dddddd
+}
+
+.hb .goog-toolbar {
+    background: #dddddd url('button-bg.gif') repeat-x scroll left top;
+    line-height: normal
+}
+
+.hb .goog-toolbar-button {
+    line-height: normal
+}
+
+.hb .goog-toolbar-button-inner-box {
+    height: 16px;
+    color: #2f4e6f;
+    font-family: Arial, sans-serif;
+    font-size: 12px
+}
+
+.hb .goog-toolbar-separator {
+    margin: 0 2px;
+    border-left: 1px solid #d6d6d6;
+    border-right: 1px solid #f7f7f7;
+    padding: 0;
+    width: 0;
+    outline: none;
+    vertical-align: middle;
+    height: 17px
+}
