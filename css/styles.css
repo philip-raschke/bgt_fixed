@@ -238,6 +238,7 @@
 
 .Q {
     position: absolute;
+    width: 75%;
     top: 0;
     left: 0;
     margin: 0;
@@ -2093,14 +2094,14 @@ body .wc {
 
 @media (min-width:1400px) {
     .pc {
-        padding: 30px 270px 30px 30px;
+        padding: 30px 170px 30px 30px;
         font-size: 17px;
     }
 }
 
 @media (min-width:1500px) {
     .pc {
-        padding: 30px 370px 30px 30px;
+        padding: 30px 170px 30px 30px;
     }
 }
 
