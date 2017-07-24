@@ -1948,7 +1948,7 @@ body .wc {
 /*Make  sidebar smaller on larger screens*/
 
 @media (max-width:950px) {
-    .Ub,
+    .Vb,
     .goog-custom-button {
         width: 22%;
     }
@@ -1965,7 +1965,7 @@ body .wc {
 }
 
 @media (max-width:820px) {
-    .Ub,
+    .Vb,
     .goog-custom-button {
         width: 26%;
     }
@@ -1982,7 +1982,7 @@ body .wc {
 }
 
 @media (min-width:1480px) {
-    .Ub,
+    .Vb,
     .goog-custom-button {
         width: 16%;
     }

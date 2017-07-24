@@ -22,7 +22,7 @@ iframe.contentDocument.head.appendChild(link);
 // Function to add and remove important class
 function markImportant(row){
   var r = $(row);
-  var text = r.find('div.d').html();
+  var text = r.find('div.e').html();
   if(text.match(/^!!/)){
     r.addClass('important');
   } else {
@@ -31,7 +31,7 @@ function markImportant(row){
 }
 
 function markAllImportant(doc){
-  doc.find('table.z tr.r').each(function(idx,row){
+  doc.find('table.A tr.s').each(function(idx,row){
     markImportant(row);
   });
 }
@@ -51,12 +51,12 @@ function initIframe(){
   nav.prepend(newHelpLink);
   // Mark important
   markAllImportant(doc);
-  doc.on('input', 'table.z tr.r div.d', function(){
-    markImportant($(this).parents('tr.r'));
+  doc.on('input', 'table.A tr.s div.e', function(){
+    markImportant($(this).parents('tr.s'));
   });
   doc.on('DOMNodeInserted', function(e) {
     if(e.target.tagName == 'TABLE'){
-      $(e.target).find('tr.r').each(function(idx,row){
+      $(e.target).find('tr.s').each(function(idx,row){
         markImportant(row);
       });
     }
