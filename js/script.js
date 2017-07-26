@@ -44,11 +44,6 @@ function initIframe(){
   }
   // Change help link destination
   var doc = $(iframe).contents();
-  var helpLink = doc.find('#\\:1\\.he');
-  var nav = helpLink.parent();
-  helpLink.remove();
-  var newHelpLink = "<a href='http://richwells.me/better-google-tasks/' target='_blank' class='goog-flat-button w goog-inline-block' role='button' aria-hidden='true' style='text-decoration:none'>Help</a>";
-  nav.prepend(newHelpLink);
   // Mark important
   markAllImportant(doc);
   doc.on('input', 'table.A tr.s div.e', function(){

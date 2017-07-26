@@ -134,6 +134,10 @@
     -webkit-user-select: none
 }
 
+.Sb .w {
+  float: ;
+}
+
 .p {
     width: 8px
 }
@@ -1957,7 +1961,7 @@ body .wc {
         width: 78%;
         left: 22%;
     }
-    .Nb {
+    .Pb {
         max-width: 78%;
     }
     .Sb {
@@ -1974,7 +1978,7 @@ body .wc {
         width: 74%;
         left: 26%;
     }
-    .Nb {
+    .Pb {
         max-width: 74%;
     }
     .Sb {
@@ -1991,7 +1995,7 @@ body .wc {
         width: 84%;
         left: 16%;
     }
-    .Nb {
+    .Pb {
         max-width: 84%;
     }
     .Sb {
