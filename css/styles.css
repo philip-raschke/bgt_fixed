@@ -2276,3 +2276,20 @@ body .yc {
     margin-top: -22px;
     margin-left: 223px;
 }
+.H {
+    background-color: teal;
+    height: 45px;
+}
+
+.H .Nb, .H .Ob {
+  border-top-width: 0;
+}
+
+.H .db {
+	color: white;
+	font-size: larger;
+}
+
+.H .p {
+	width: 0px;
+}
