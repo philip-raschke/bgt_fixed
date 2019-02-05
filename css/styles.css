@@ -1901,18 +1901,17 @@ body .yc {
 
 /*hide stuff I don't need*/
 
-.goog-toolbar div:nth-child(9),
+.goog-toolbar div:nth-child(7),
+.goog-toolbar div:nth-child(10),
 .goog-toolbar div:nth-child(12),
 .goog-toolbar div:nth-child(14),
-.goog-toolbar div:nth-child(12),
+.goog-toolbar div:nth-child(15),
 .goog-toolbar div:nth-child(16),
 .goog-toolbar div:nth-child(17),
 .goog-toolbar div:nth-child(18),
 .goog-toolbar div:nth-child(19),
-.goog-toolbar div:nth-child(20),
-.goog-toolbar div:nth-child(21),
-.goog-toolbar div:nth-child(25),
-.goog-toolbar div:nth-child(26),
+.goog-toolbar div:nth-child(23),
+.goog-toolbar div:nth-child(24),
 .Ab,
 .a.h {
     display: none !important;
@@ -2165,82 +2164,71 @@ body .yc {
 }
 
 
-/* Trash icon */
+/* History */
 
 .goog-toolbar div:nth-child(1) .goog-toolbar-button-inner-box {
-    background-image: url(../img/trash.svg);
+    background-image: url(../img/history.svg);
 }
 
 .goog-toolbar div:nth-child(1) .goog-toolbar-button-inner-box {
-    width: 35px;
+    width: 47px;
 }
 
 
 /* Refresh icon */
 
-.goog-toolbar div:nth-child(24) .goog-toolbar-button-inner-box {
+.goog-toolbar div:nth-child(22) .goog-toolbar-button-inner-box {
     background-image: url(../img/refresh.svg);
     width: 55px;
 }
 
-.goog-toolbar div:nth-child(24) .goog-toolbar-button-inner-box {
+.goog-toolbar div:nth-child(22) .goog-toolbar-button-inner-box {
     width: 55px;
 }
 
 
 /* clear Completed icon */
 
-.goog-toolbar div:nth-child(10) .goog-toolbar-button-inner-box {
+.goog-toolbar div:nth-child(8) .goog-toolbar-button-inner-box {
     background-image: url(../img/clear.svg);
 }
 
-.goog-toolbar div:nth-child(10) .goog-toolbar-button-inner-box {
+.goog-toolbar div:nth-child(8) .goog-toolbar-button-inner-box {
     width: 40px;
 }
 
 
 /* My order icon */
 
-.goog-toolbar div:nth-child(7) .goog-toolbar-button-inner-box {
+.goog-toolbar div:nth-child(5) .goog-toolbar-button-inner-box {
     background-image: url(../img/my-order.svg);
 }
 
-.goog-toolbar div:nth-child(7) .goog-toolbar-button-inner-box {
+.goog-toolbar div:nth-child(5) .goog-toolbar-button-inner-box {
     width: 60px;
 }
 
 
 /* Date */
 
-.goog-toolbar div:nth-child(5) .goog-toolbar-button-inner-box {
+.goog-toolbar div:nth-child(3) .goog-toolbar-button-inner-box {
     background-image: url(../img/date-order.svg);
 }
 
-.goog-toolbar div:nth-child(5) .goog-toolbar-button-inner-box {
+.goog-toolbar div:nth-child(3) .goog-toolbar-button-inner-box {
     width: 70px;
-}
-
-
-/* History */
-
-.goog-toolbar div:nth-child(3) .goog-toolbar-button-inner-box {
-    background-image: url(../img/history.svg);
-}
-
-.goog-toolbar div:nth-child(3) .goog-toolbar-button-inner-box {
-    width: 47px;
 }
 
 
 /* Delete */
 
-.goog-toolbar div:nth-child(22) .goog-toolbar-button-inner-box {
+.goog-toolbar div:nth-child(20) .goog-toolbar-button-inner-box {
     background-image: url(../img/delete.svg);
     padding-left: 55px;
     width: 46px;
 }
 
-.goog-toolbar div:nth-child(22) {
+.goog-toolbar div:nth-child(20) {
     display: block !important;
     float: left;
 }
